@@ -1,1 +1,50 @@
 /*  your css code here. If applicable */
+  body{
+        background-color: rgb(204, 204, 204)
+      }
+      h1{
+        text-align: center;
+      }
+    
+    .one{
+      background-color: white;
+      height: 120px;
+      width: 800px;
+      border: 2px solid black;
+      /* align-content: center; */
+      /* justify-content: center; */
+      justify-self: center;
+      border-radius: 10px;
+    }
+
+    li{
+      list-style: none;
+    }
+    a{
+      text-decoration-line: none;
+    }
+    h2{
+      text-align: center;
+    }
+    .two{
+
+       background-color: white;
+      height: 500px;
+      width: 600px;
+      border: 2px solid black;
+      justify-self: center;
+      border-radius: 10px;
+    }
+
+    .player_one{
+      padding: 50px;
+      height: 300px;
+      width: 500px;
+    }
+    .player_two{
+      padding: 30px;
+    }
+    h3{
+      text-align: center;
+      padding-top: -40px;
+    }
